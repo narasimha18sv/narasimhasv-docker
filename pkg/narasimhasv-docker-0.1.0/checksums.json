@@ -1,0 +1,12 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "README.md": "615ee1ec9a99944a7a75fc589c6936e8",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/init.pp": "8836a6a5d8bdd8d585b9515706907188",
+  "manifests/install.pp": "16605d020fe6eadd10858a6ba825d255",
+  "manifests/repo/apt.pp": "b2a748c7b34a343a4cf2ee31525c6b12",
+  "metadata.json": "06183036981653ad3fbc2932e7eff028",
+  "spec/classes/init_spec.rb": "56b5395603cb9ee41f5c056796dd1e0f",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "8f9c81e35e4287bf551f1d5370a38709"
+}
